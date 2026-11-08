@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Please cite the SHINING paper using the citation below."
+
+title: "SHINING: Shorten Circuit Paths via One-Pass Gating"
+
+authors:
+  - given-names: "Zhu"
+    family-names: "Liao"
+  - given-names: "Van-Tam"
+    family-names: "Nguyen"
+  - given-names: "Enzo"
+    family-names: "Tartaglione"
+
+url: "https://github.com/ZhuLIAO001/SHINING"
+
+preferred-citation:
+  type: generic
+  title: "SHINING: Shorten Circuit Paths via One-Pass Gating"
+  authors:
+    - given-names: "Zhu"
+      family-names: "Liao"
+    - given-names: "Van-Tam"
+      family-names: "Nguyen"
+    - given-names: "Enzo"
+      family-names: "Tartaglione"
+  year: 2026
+  url: "https://github.com/ZhuLIAO001/SHINING/blob/main/SHINING.pdf"
